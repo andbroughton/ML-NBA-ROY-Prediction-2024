@@ -10,7 +10,7 @@ Shown below are the predicted top 10 vote-getters for the Rookie of the Year Awa
 # Findings
 Backtesting across the data set, the model was found to be around 75% accurate at predicting the top 5 finishers for the ROY race in a given year, with most players predicted ranks being very close to their actual ranks.
 
-The model was trained using data from 2003-2022, and tested on the data from the 2023 season to predict who the ROY was. Shown below are the results.
+For instance, the model was trained using data from 2003-2022, and tested on the data from the 2023 season to predict who the ROY was. Shown below are the results.
 
 ![image](https://github.com/andbroughton/ML-NBA-ROY-Prediction-2024/assets/134515627/c35d15e4-083f-466b-8c3f-96cd98bdf41d)
 
