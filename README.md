@@ -2,8 +2,6 @@
 
 This repository contains the code and resources for a predictive model that forecasts the NBA Rookie of the Year winner based on historical data from the past 20 years. 
 
-Inspired by Dataquest's project predicting the NBA MVP.
-
 # Results
 Below the predicted top 10 vote-getters for the Rookie of the Year Award for the 2023-2024 NBA Season (using statistics through 1/6/2024)
 ![image](https://github.com/andbroughton/ML-NBA-ROY-Prediction-2024/assets/134515627/b1a54fe4-84d1-490a-a8f1-475184bd01e0)
@@ -26,3 +24,6 @@ The model was trained using data from 2003-2022, and tested on the data from the
 As can be seen, 4/5 actual top 5 finishers were correctly placed in the top 5, and other member of the actual top 5, Keegan Murray, finished just outside of the top 5, at 7th.
 
 Consistent with expectations, the model predicts Victor Wembanyama and Chet Holmgren as the top contenders for the 1st and 2nd positions in the NBA Rookie of the Year race. Notably, Jaime Jaquez Jr. is projected to be ranked 7th, contrasting with many analysts who consider him the third-best candidate for the award. Additionally, the model reveals intriguing insights, suggesting a more dispersed distribution of votes compared to the concentrated patterns observed in real-life voting outcomes.
+
+
+This project was inspired by Dataquest's project predicting the NBA MVP.
